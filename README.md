@@ -1,2 +1,4 @@
 # case_ifood
-Processo seletivo para vada de Analista de BI Pleno - Fraude Costumer
+Processo seletivo para vaga de Analista de BI Pleno - Fraude Costumer
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
